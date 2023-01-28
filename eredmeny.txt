@@ -1,0 +1,3 @@
+kimutatas.txt tartalma: 
+II/F: 
+ 	 A páratlanok száma: 9.
